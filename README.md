@@ -10,7 +10,6 @@ gallery. Users can tap the photo to see a full-screen view of it with the possib
 5. Beautiful design pattern.<br/>
 6. Allow Zoom in and out.<br/>
 
-
 # Screen shot of this application
 <p float="left" >
 <img src="https://user-images.githubusercontent.com/59121881/181260954-c8858b0b-636d-433a-a879-2962258e7979.jpg" width="220"/>
